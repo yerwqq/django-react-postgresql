@@ -1,6 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import MainPage from '@/pages/Main/MainPage';
+import MainPage from '@/pages/MainPage/MainPage';
 
 
 const Router = () => {
@@ -12,3 +12,4 @@ const Router = () => {
 };
 
 export default Router;
+
